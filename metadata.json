@@ -1,0 +1,8 @@
+{
+  "name": "Remix Yasir Apparel — Abaya Manufacturer \u0026 Wholesale Exporter",
+  "description": "Pakistan-based abaya manufacturer, wholesaler, and private-label Muslim apparel exporter established in 2000. Browse our abaya catalogue and request wholesale quotations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
